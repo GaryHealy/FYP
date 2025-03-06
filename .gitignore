@@ -1,0 +1,7 @@
+temp
+server.log
+.env
+stderr*.log
+log
+test-results
+node_modules

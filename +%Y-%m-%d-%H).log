@@ -1,0 +1,175 @@
+2025-01-19T13:51:51.881Z: Server loading ...
+
+923ms 	Drivers loaded
+301ms 	Location loaded
+667ms 	Laps loaded
+148ms 	Weather loaded
+49ms 	Positions loaded
+39ms 	TeamRadio loaded
+99ms 	Racecontrol loaded
+113ms 	Stints loaded
+35ms 	Pitstops loaded
+1161ms 	Intervals loaded
+125ms 	Meetings loaded
+84ms 	Schedule loaded
+
+Loading time: 3.744 seconds
+
+2025-01-19T13:51:55.625Z: Server running at http://localhost:3000
+2025-01-19T13:52:00.733Z: loadIntervals: Retrying... (1/5)
+2025-01-19T13:52:00.749Z: loadPositions: Retrying... (1/5)
+2025-01-19T13:52:00.786Z: loadLaps: Retrying... (1/5)
+2025-01-19T13:52:00.802Z: loadStints: Retrying... (1/5)
+2025-01-19T13:52:02.912Z: carData (car 11): Retrying... (1/5)
+2025-01-19T13:52:02.913Z: carData (car 1): Retrying... (1/5)
+2025-01-19T13:52:02.954Z: carData (car 4): Retrying... (1/5)
+2025-01-19T13:52:03.042Z: carData (car 10): Retrying... (1/5)
+2025-01-19T13:52:03.096Z: carData (car 16): Retrying... (1/5)
+2025-01-19T13:52:03.140Z: carData (car 22): Retrying... (1/5)
+2025-01-19T13:52:03.182Z: carData (car 14): Retrying... (1/5)
+2025-01-19T13:52:03.231Z: carData (car 23): Retrying... (1/5)
+2025-01-19T13:52:03.235Z: carData (car 27): Retrying... (1/5)
+2025-01-19T13:52:03.243Z: carData (car 44): Retrying... (1/5)
+2025-01-19T13:52:03.264Z: carData (car 24): Retrying... (1/5)
+2025-01-19T13:52:03.265Z: carData (car 55): Retrying... (1/5)
+2025-01-19T13:52:03.266Z: carData (car 20): Retrying... (1/5)
+2025-01-19T13:52:03.296Z: carData (car 81): Retrying... (1/5)
+2025-01-19T13:52:03.297Z: carData (car 61): Retrying... (1/5)
+2025-01-19T13:52:03.297Z: carData (car 30): Retrying... (1/5)
+2025-01-19T13:52:03.299Z: carData (car 63): Retrying... (1/5)
+2025-01-19T13:52:03.300Z: carData (car 43): Retrying... (1/5)
+2025-01-19T13:52:03.301Z: carData (car 77): Retrying... (1/5)
+2025-01-19T13:52:04.514Z: loadPositions: retry done (1/5)
+2025-01-19T13:52:04.765Z: loadLaps: retry done (1/5)
+2025-01-19T13:52:04.769Z: loadStints: retry done (1/5)
+2025-01-19T13:52:05.075Z: loadIntervals: retry done (1/5)
+2025-01-19T13:52:10.487Z: loadIntervals: Retrying... (1/5)
+2025-01-19T13:52:10.708Z: loadPositions: Retrying... (1/5)
+2025-01-19T13:52:10.768Z: loadLocation: Retrying... (1/5)
+2025-01-19T13:52:10.804Z: loadLaps: Retrying... (1/5)
+2025-01-19T13:52:10.863Z: loadStints: Retrying... (1/5)
+2025-01-19T13:52:12.067Z: carData (car 11): Retrying... (2/5)
+2025-01-19T13:52:12.121Z: carData (car 1): Retrying... (2/5)
+2025-01-19T13:52:12.170Z: carData (car 4): Retrying... (2/5)
+2025-01-19T13:52:12.219Z: carData (car 10): Retrying... (2/5)
+2025-01-19T13:52:12.297Z: carData (car 16): Retrying... (2/5)
+2025-01-19T13:52:12.302Z: carData (car 22): Retrying... (2/5)
+2025-01-19T13:52:12.353Z: carData (car 14): Retrying... (2/5)
+2025-01-19T13:52:12.390Z: carData (car 27): Retrying... (2/5)
+2025-01-19T13:52:12.442Z: carData (car 23): Retrying... (2/5)
+2025-01-19T13:52:12.447Z: carData (car 44): Retrying... (2/5)
+2025-01-19T13:52:12.454Z: carData (car 55): Retrying... (2/5)
+2025-01-19T13:52:12.457Z: carData (car 20): Retrying... (2/5)
+2025-01-19T13:52:12.471Z: carData (car 61): Retrying... (2/5)
+2025-01-19T13:52:12.476Z: carData (car 30): Retrying... (2/5)
+2025-01-19T13:52:12.477Z: carData (car 77): Retrying... (2/5)
+2025-01-19T13:52:12.479Z: carData (car 24): Retrying... (2/5)
+2025-01-19T13:52:12.479Z: carData (car 81): Retrying... (2/5)
+2025-01-19T13:52:12.489Z: carData (car 43): Retrying... (2/5)
+2025-01-19T13:52:12.491Z: carData (car 63): Retrying... (2/5)
+2025-01-19T13:52:14.269Z: loadPositions: retry done (1/5)
+2025-01-19T13:52:14.534Z: loadStints: retry done (1/5)
+2025-01-19T13:52:14.609Z: loadLaps: retry done (1/5)
+2025-01-19T13:52:14.763Z: loadIntervals: retry done (1/5)
+2025-01-19T13:52:17.043Z: loadLocation: retry done (1/5)
+2025-01-19T13:52:20.245Z: loadIntervals: Retrying... (1/5)
+2025-01-19T13:52:20.681Z: loadPositions: Retrying... (1/5)
+2025-01-19T13:52:20.832Z: loadLaps: Retrying... (1/5)
+2025-01-19T13:52:20.926Z: loadStints: Retrying... (1/5)
+2025-01-19T13:52:21.746Z: carData (car 4): Retrying... (3/5)
+2025-01-19T13:52:21.747Z: carData (car 16): Retrying... (3/5)
+2025-01-19T13:52:21.749Z: carData (car 10): Retrying... (3/5)
+2025-01-19T13:52:21.757Z: carData (car 22): Retrying... (3/5)
+2025-01-19T13:52:21.770Z: carData (car 14): Retrying... (3/5)
+2025-01-19T13:52:21.821Z: loadTeamRadio: Retrying... (1/5)
+2025-01-19T13:52:21.827Z: carData (car 27): Retrying... (3/5)
+2025-01-19T13:52:21.846Z: carData (car 23): Retrying... (3/5)
+2025-01-19T13:52:21.848Z: carData (car 44): Retrying... (3/5)
+2025-01-19T13:52:21.899Z: carData (car 20): Retrying... (3/5)
+2025-01-19T13:52:21.900Z: carData (car 55): Retrying... (3/5)
+2025-01-19T13:52:21.909Z: carData (car 61): Retrying... (3/5)
+2025-01-19T13:52:21.919Z: carData (car 77): Retrying... (3/5)
+2025-01-19T13:52:21.923Z: carData (car 24): Retrying... (3/5)
+2025-01-19T13:52:21.923Z: carData (car 30): Retrying... (3/5)
+2025-01-19T13:52:21.927Z: carData (car 43): Retrying... (3/5)
+2025-01-19T13:52:21.932Z: carData (car 81): Retrying... (3/5)
+2025-01-19T13:52:21.939Z: carData (car 63): Retrying... (3/5)
+2025-01-19T13:52:24.912Z: loadCarData (car 1): retry done (2/5)
+2025-01-19T13:52:27.830Z: loadCarData (car 11): retry done (2/5)
+2025-01-19T13:52:27.843Z: loadPositions: retry done (1/5)
+2025-01-19T13:52:27.849Z: loadTeamradio: retry done (1/5)
+2025-01-19T13:52:27.902Z: loadLaps: retry done (1/5)
+2025-01-19T13:52:28.250Z: loadIntervals: retry done (1/5)
+2025-01-19T13:52:31.238Z: carData (car 4): Retrying... (4/5)
+2025-01-19T13:52:31.283Z: carData (car 14): Retrying... (4/5)
+2025-01-19T13:52:31.370Z: carData (car 16): Retrying... (4/5)
+2025-01-19T13:52:31.474Z: carData (car 10): Retrying... (4/5)
+2025-01-19T13:52:31.512Z: carData (car 22): Retrying... (4/5)
+2025-01-19T13:52:31.556Z: carData (car 23): Retrying... (4/5)
+2025-01-19T13:52:31.564Z: carData (car 20): Retrying... (4/5)
+2025-01-19T13:52:31.569Z: carData (car 27): Retrying... (4/5)
+2025-01-19T13:52:31.580Z: carData (car 55): Retrying... (4/5)
+2025-01-19T13:52:31.583Z: carData (car 61): Retrying... (4/5)
+2025-01-19T13:52:31.584Z: carData (car 44): Retrying... (4/5)
+2025-01-19T13:52:31.614Z: loadStints: Retrying... (2/5)
+2025-01-19T13:52:31.616Z: carData (car 81): Retrying... (4/5)
+2025-01-19T13:52:31.617Z: carData (car 63): Retrying... (4/5)
+2025-01-19T13:52:31.618Z: carData (car 77): Retrying... (4/5)
+2025-01-19T13:52:31.619Z: carData (car 30): Retrying... (4/5)
+2025-01-19T13:52:31.620Z: carData (car 24): Retrying... (4/5)
+2025-01-19T13:52:31.621Z: carData (car 43): Retrying... (4/5)
+2025-01-19T13:52:33.145Z: loadLocation: Retrying... (1/5)
+2025-01-19T13:52:39.381Z: carData (car 4): Retrying... (5/5)
+2025-01-19T13:52:39.383Z: carData (car 14): Retrying... (5/5)
+2025-01-19T13:52:39.496Z: carData (car 16): Retrying... (5/5)
+2025-01-19T13:52:39.561Z: carData (car 10): Retrying... (5/5)
+2025-01-19T13:52:40.343Z: carData (car 23): Retrying... (5/5)
+2025-01-19T13:52:40.345Z: carData (car 22): Retrying... (5/5)
+2025-01-19T13:52:40.847Z: carData (car 20): Retrying... (5/5)
+2025-01-19T13:52:40.847Z: carData (car 27): Retrying... (5/5)
+2025-01-19T13:52:40.856Z: carData (car 55): Retrying... (5/5)
+2025-01-19T13:52:40.873Z: carData (car 63): Retrying... (5/5)
+2025-01-19T13:52:40.875Z: carData (car 61): Retrying... (5/5)
+2025-01-19T13:52:40.876Z: carData (car 30): Retrying... (5/5)
+2025-01-19T13:52:40.879Z: carData (car 44): Retrying... (5/5)
+2025-01-19T13:52:40.900Z: carData (car 43): Retrying... (5/5)
+2025-01-19T13:52:40.900Z: carData (car 81): Retrying... (5/5)
+2025-01-19T13:52:40.902Z: carData (car 24): Retrying... (5/5)
+2025-01-19T13:52:40.902Z: loadStints: Retrying... (3/5)
+2025-01-19T13:52:40.903Z: carData (car 77): Retrying... (5/5)
+2025-01-19T13:52:41.243Z: loadLocation: Retrying... (2/5)
+2025-01-19T13:52:48.564Z:
+carData (car 4): Max retries reached. Unable to fetch driver data.
+2025-01-19T13:52:48.565Z:
+carData (car 16): Max retries reached. Unable to fetch driver data.
+2025-01-19T13:52:48.566Z:
+carData (car 10): Max retries reached. Unable to fetch driver data.
+2025-01-19T13:52:48.600Z:
+carData (car 23): Max retries reached. Unable to fetch driver data.
+2025-01-19T13:52:51.686Z: loadCarData (car 22): retry done (5/5)
+2025-01-19T13:52:52.564Z:
+carData (car 27): Max retries reached. Unable to fetch driver data.
+2025-01-19T13:52:52.569Z:
+carData (car 30): Max retries reached. Unable to fetch driver data.
+2025-01-19T13:52:52.570Z:
+carData (car 24): Max retries reached. Unable to fetch driver data.
+2025-01-19T13:52:52.571Z: loadLocation: Retrying... (3/5)
+2025-01-19T13:52:52.572Z:
+carData (car 77): Max retries reached. Unable to fetch driver data.
+2025-01-19T13:52:52.572Z:
+carData (car 61): Max retries reached. Unable to fetch driver data.
+2025-01-19T13:52:52.573Z:
+carData (car 43): Max retries reached. Unable to fetch driver data.
+2025-01-19T13:52:52.574Z: loadStints: Retrying... (4/5)
+2025-01-19T13:52:52.574Z:
+carData (car 44): Max retries reached. Unable to fetch driver data.
+2025-01-19T13:52:52.577Z:
+carData (car 20): Max retries reached. Unable to fetch driver data.
+2025-01-19T13:52:52.577Z:
+carData (car 63): Max retries reached. Unable to fetch driver data.
+2025-01-19T13:52:52.579Z:
+carData (car 81): Max retries reached. Unable to fetch driver data.
+2025-01-19T13:52:55.869Z: loadCarData (car 14): retry done (5/5)
+2025-01-19T13:52:56.290Z: loadLocation: retry done (3/5)
+2025-01-19T13:52:56.291Z: loadStints: retry done (4/5)
+2025-01-19T13:53:00.319Z: loadCarData (car 55): retry done (5/5)
